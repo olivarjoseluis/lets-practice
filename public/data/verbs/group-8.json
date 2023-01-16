@@ -1,0 +1,170 @@
+[
+    {
+        "id": 0,
+        "type_verb": 1,
+        "original": "Ache",
+        "es": [
+            "Doler, dolor"
+        ]
+    },
+    {
+        "id": 1,
+        "type_verb": 1,
+        "original": "Attach",
+        "es": [
+            "Pegar, adherir"
+        ]
+    },
+    {
+        "id": 2,
+        "type_verb": 1,
+        "original": "Clean",
+        "es": [
+            "Limpiar, limpio"
+        ]
+    },
+    {
+        "id": 3,
+        "type_verb": 1,
+        "original": "Consider",
+        "es": [
+            "Considerar, pensar"
+        ]
+    },
+    {
+        "id": 4,
+        "type_verb": 1,
+        "original": "Close",
+        "es": [
+            "Cerrar"
+        ]
+    },
+    {
+        "id": 5,
+        "type_verb": 1,
+        "original": "Crack",
+        "es": [
+            "Crujir, agrietarse, crujido, estallido"
+        ]
+    },
+    {
+        "id": 6,
+        "type_verb": 1,
+        "original": "Cramp",
+        "es": [
+            "Dar calambre, calambre"
+        ]
+    },
+    {
+        "id": 7,
+        "type_verb": 1,
+        "original": "Declare",
+        "es": [
+            "Declarar"
+        ]
+    },
+    {
+        "id": 8,
+        "type_verb": 1,
+        "original": "Delete",
+        "es": [
+            "Eliminar"
+        ]
+    },
+    {
+        "id": 9,
+        "type_verb": 1,
+        "original": "Desire",
+        "es": [
+            "Desear, deseo"
+        ]
+    },
+    {
+        "id": 10,
+        "type_verb": 1,
+        "original": "End",
+        "es": [
+            "Terminar, fin"
+        ]
+    },
+    {
+        "id": 11,
+        "type_verb": 1,
+        "original": "Get-nervous",
+        "es": [
+            "Ponerse nervioso"
+        ]
+    },
+    {
+        "id": 12,
+        "type_verb": 1,
+        "original": "Get left behind",
+        "es": [
+            "Quedarse atrás"
+        ]
+    },
+    {
+        "id": 13,
+        "type_verb": 1,
+        "original": "Grab",
+        "es": [
+            "Agarrar"
+        ]
+    },
+    {
+        "id": 14,
+        "type_verb": 1,
+        "original": "Invest",
+        "es": [
+            "Invertir"
+        ]
+    },
+    {
+        "id": 15,
+        "type_verb": 1,
+        "original": "Kneel",
+        "es": [
+            "Arrodillarse, hincarse"
+        ]
+    },
+    {
+        "id": 16,
+        "type_verb": 1,
+        "original": "Loathe",
+        "es": [
+            "Detestar"
+        ]
+    },
+    {
+        "id": 17,
+        "type_verb": 1,
+        "original": "Lock",
+        "es": [
+            "Echar llave, cerrar, cerradura, candado"
+        ]
+    },
+    {
+        "id": 18,
+        "type_verb": 1,
+        "original": "Unlock",
+        "es": [
+            "Abrir cerradura, quitar llave"
+        ]
+    },
+    {
+        "id": 19,
+        "type_verb": 1,
+        "original": "Long (for, to)",
+        "es": [
+            "Anhelar, desear, largo"
+        ]
+    },
+    {
+        "id": 20,
+        "type_verb": 1,
+        "original": "Open",
+        "es": [
+            "Abrir"
+        ]
+    }
+]

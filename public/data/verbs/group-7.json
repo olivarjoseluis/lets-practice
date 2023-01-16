@@ -1,0 +1,110 @@
+[
+    {
+        "id": 0,
+        "type_verb": 1,
+        "original": "Dream (about, of)",
+        "es": ["Soñar, Sueño (con)"]
+    },
+    {
+        "id": 1,
+        "type_verb": 1,
+        "original": "Go to bed",
+        "es": ["Acostarse"]
+    },
+    {
+        "id": 2,
+        "type_verb": 1,
+        "original": "Plan",
+        "es": ["Planear, Plan"]
+    },
+    {
+        "id":3,
+        "type_verb": 1,
+        "original": "Read",
+        "es": ["Leer"]
+    },
+    {
+        "id": 4,
+        "type_verb": 1,
+        "original": "Sleep",
+        "es": ["Dormir"]
+    },
+    {
+        "id":5,
+        "type_verb": 1,
+        "original": "Stop",
+        "es": ["Parar, Parada"]
+    },
+    {
+        "id": 6,
+        "type_verb": 1,
+        "original": "Stay",
+        "es": ["Quedarse, Permanencia"]
+    },
+    {
+        "id": 7,
+        "type_verb": 1,
+        "original": "Stay alive",
+        "es": ["Sobrevivir"]
+    },
+    {
+        "id": 8,
+        "type_verb": 1,
+        "original": "Swim",
+        "es": ["Nadar"]
+    },
+    {
+        "id": 9,
+        "type_verb": 1,
+        "original": "Thank",
+        "es": ["Agredecer, Gracias"]
+    },
+    {
+        "id": 10,
+        "type_verb": 1,
+        "original": "Start",
+        "es": ["Empezar, Arranque"]
+    },
+    {
+        "id": 11,
+        "type_verb": 1,
+        "original": "Wash",
+        "es": ["Lavar"]
+    },
+    {
+        "id": 12,
+        "type_verb": 1,
+        "original": "Watch",
+        "es": ["Mirar, Reloj de pulso"]
+    },
+    {
+        "id": 13,
+        "type_verb": 1,
+        "original": "Wake-up",
+        "es": ["Despertar"]
+    },
+    {
+        "id": 14,
+        "type_verb": 1,
+        "original": "Need",
+        "es": ["Necesitar"]
+    },
+    {
+        "id": 15,
+        "type_verb": 1,
+        "original": "Hope",
+        "es": ["Esperar (mentalmente), Esperanza"]
+    },
+    {
+        "id": 16,
+        "type_verb": 1,
+        "original": "Wait (for)",
+        "es": ["Esperar (a) (físicamente)"]
+    },
+    {
+        "id": 17,
+        "type_verb": 1,
+        "original": "Have (to)",
+        "es": ["Tener (que)"]
+    }
+]

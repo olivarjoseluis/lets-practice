@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "type_verb": 1,
+        "original": "Cash",
+        "es": [
+            "Cambiar en efectivo, dinero sencillo"
+        ]
+    },
+    {
+        "id": 2,
+        "type_verb": 1,
+        "original": "Crash",
+        "es": [
+            "Estrellarse, chocar, choque"
+        ]
+    },
+    {
+        "id": 3,
+        "type_verb": 1,
+        "original": "Call",
+        "es": [
+            "Llamar, llamada"
+        ]
+    },
+    {
+        "id": 4,
+        "type_verb": 1,
+        "original": "Complete",
+        "es": [
+            "Completar, completo (adjetivo)"
+        ]
+    },
+    {
+        "id": 5,
+        "type_verb": 1,
+        "original": "Envy",
+        "es": [
+            "Envidiar"
+        ]
+    },
+    {
+        "id": 6,
+        "type_verb": 1,
+        "original": "Enjoy",
+        "es": [
+            "Disfrutar"
+        ]
+    },
+    {
+        "id": 7,
+        "type_verb": 1,
+        "original": "Explain",
+        "es": [
+            "Explicar"
+        ]
+    },
+    {
+        "id": 8,
+        "type_verb": 1,
+        "original": "Fool",
+        "es": [
+            "Embolar, tomar el pelo, bobo, tonto"
+        ]
+    },
+    {
+        "id": 9,
+        "type_verb": 1,
+        "original": "Land",
+        "es": [
+            "Aterrizar, tiera"
+        ]
+    },
+    {
+        "id": 10,
+        "type_verb": 1,
+        "original": "Kick",
+        "es": [
+            "Patear, patada"
+        ]
+    },
+    {
+        "id": 11,
+        "type_verb": 1,
+        "original": "Kid",
+        "es": [
+            "Bromear, niño"
+        ]
+    },
+    {
+        "id": 12,
+        "type_verb": 1,
+        "original": "Listen (to)",
+        "es": [
+            "Escuchar (a)"
+        ]
+    },
+    {
+        "id": 13,
+        "type_verb": 1,
+        "original": "Boil",
+        "es": [
+            "Hervir"
+        ]
+    },
+    {
+        "id": 14,
+        "type_verb": 1,
+        "original": "Bury",
+        "es": [
+            "Enterrar"
+        ]
+    },
+    {
+        "id": 15,
+        "type_verb": 1,
+        "original": "Crush",
+        "es": [
+            "Aplastar, triturar"
+        ]
+    },
+    {
+        "id": 16,
+        "type_verb": 1,
+        "original": "Hug",
+        "es": [
+            "Abrazar, abrazo"
+        ]
+    },
+    {
+        "id": 17,
+        "type_verb": 1,
+        "original": "Realice",
+        "es": [
+            "Darse cuenta (de)"
+        ]
+    }
+]

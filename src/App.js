@@ -1,24 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import Navbar from "./components/Navbar";
+import VerbsState from "./context/verbs/VerbsState";
+import RouterIndex from "./router/RouterIndex";
+import { loadAnimation } from "lottie-web";
+import { defineLordIconElement } from "lord-icon-element";
+import VocabulariesState from "./context/vocabulary/VocabulariesState";
+import UsefulExpressionsState from "./context/useful_expressions/UsefulExpressionsState";
+
 
 function App() {
+  defineLordIconElement(loadAnimation);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <VerbsState>
+      <VocabulariesState>
+        <UsefulExpressionsState>
+          <Navbar />
+          <RouterIndex />
+        </UsefulExpressionsState>
+      </VocabulariesState>
+    </VerbsState>
   );
 }
 

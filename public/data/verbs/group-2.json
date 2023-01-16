@@ -1,0 +1,224 @@
+[
+    {
+        "id": 21,
+        "type_verb": 1,
+        "original": "Buy",
+        "es": [
+            "Comprar"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 22,
+        "type_verb": 1,
+        "original": "Sell",
+        "es": [
+            "Vender"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 23,
+        "type_verb": 1,
+        "original": "Catch",
+        "es": [
+            "Coger",
+            "Capturar"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 24,
+        "type_verb": 1,
+        "original": "Catch-up",
+        "es": [
+            "Ponerse al día",
+            "Alcanzar"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 25,
+        "type_verb": 1,
+        "original": "Defrost",
+        "es": [
+            "Descongelar"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 26,
+        "type_verb": 1,
+        "original": "Freeze",
+        "es": [
+            "Congelar"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 27,
+        "type_verb": 1,
+        "original": "Give (away)",
+        "es": [
+            "Dar",
+            "Regalar"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 28,
+        "type_verb": 1,
+        "original": "Give up",
+        "es": [
+            "Rendirse",
+            "Darse por vencido"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 29,
+        "type_verb": 1,
+        "original": "Lose",
+        "es": [
+            "Perder"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 30,
+        "type_verb": 1,
+        "original": "Look (at)",
+        "es": [
+            "Mirar (a)"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 31,
+        "type_verb": 1,
+        "original": "Look back",
+        "es": [
+            "Voltear a mirar",
+            "Mirar atrás"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 32,
+        "type_verb": 1,
+        "original": "Look like",
+        "es": [
+            "Parecerse a"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 33,
+        "type_verb": 1,
+        "original": "Put",
+        "es": [
+            "Poner",
+            "Colocar"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 34,
+        "type_verb": 1,
+        "original": "Report",
+        "es": [
+            "Reportar",
+            "Reporte"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 35,
+        "type_verb": 1,
+        "original": "Ride",
+        "es": [
+            "Montar (sobre)",
+            "Dar un paseo"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 36,
+        "type_verb": 1,
+        "original": "Run (for)",
+        "es": [
+            "Correr",
+            "Presentarse para",
+            "Postularse"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 37,
+        "type_verb": 1,
+        "original": "Sing",
+        "es": [
+            "Cantar"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 38,
+        "type_verb": 1,
+        "original": "Study",
+        "es": [
+            "Estudiar"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 39,
+        "type_verb": 1,
+        "original": "Walk",
+        "es": [
+            "Caminar",
+            "Caminata"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 40,
+        "type_verb": 1,
+        "original": "Walk-away",
+        "es": [
+            "Alejarse (caminando)"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 41,
+        "type_verb": 1,
+        "original": "Work",
+        "es": [
+            "Trabajar",
+            "Trabajo"
+        ],
+        "past_affir": [],
+        "past_part": []
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "id": 0,
+        "type_verb": 1,
+        "original": "Brush",
+        "es": [
+            "Cepillar, Cepillo"
+        ]
+    },
+    {
+        "id": 1,
+        "type_verb": 1,
+        "original": "Celebrate",
+        "es": [
+            "Celebrar"
+        ]
+    },
+    {
+        "id": 2,
+        "type_verb": 1,
+        "original": "Decide",
+        "es": [
+            "Decidir"
+        ]
+    },
+    {
+        "id": 3,
+        "type_verb": 1,
+        "original": "Destroy",
+        "es": [
+            "Destrozar"
+        ]
+    },
+    {
+        "id": 4,
+        "type_verb": 1,
+        "original": "Dress",
+        "es": [
+            "Vestir, Vestido (de mujer)"
+        ]
+    },
+    {
+        "id": 5,
+        "type_verb": 1,
+        "original": "Give in advance",
+        "es": [
+            "Dar por adelantado"
+        ]
+    },
+    {
+        "id": 6,
+        "type_verb": 1,
+        "original": "Mop",
+        "es": [
+            "Trapear, Trapeador"
+        ]
+    },
+    {
+        "id": 7,
+        "type_verb": 1,
+        "original": "Sweep",
+        "es": [
+            "Barrer"
+        ]
+    },
+    {
+        "id": 8,
+        "type_verb": 1,
+        "original": "Recommend",
+        "es": [
+            "Recomendar"
+        ]
+    },
+    {
+        "id": 9,
+        "type_verb": 1,
+        "original": "Receive",
+        "es": [
+            "Recibir"
+        ]
+    },
+    {
+        "id": 10,
+        "type_verb": 1,
+        "original": "Travel",
+        "es": [
+            "Viajar"
+        ]
+    },
+    {
+        "id": 11,
+        "type_verb": 1,
+        "original": "Keep",
+        "es": [
+            "Guardar, Mantener"
+        ]
+    },
+    {
+        "id": 12,
+        "type_verb": 1,
+        "original": "Answer (to)",
+        "es": [
+            "Responder, Contestar (a), Respuesta"
+        ]
+    },
+    {
+        "id": 13,
+        "type_verb": 1,
+        "original": "Demand",
+        "es": [
+            "Demandar, Exigir"
+        ]
+    },
+    {
+        "id": 14,
+        "type_verb": 1,
+        "original": "Stand-up",
+        "es": [
+            "Ponerse de pie, Pararse"
+        ]
+    },
+    {
+        "id": 15,
+        "type_verb": 1,
+        "original": "Sit-down",
+        "es": [
+            "Sentarse"
+        ]
+    }
+]

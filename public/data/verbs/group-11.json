@@ -1,0 +1,191 @@
+[
+    {
+        "id": 1,
+        "original": "Contradict",
+        "es": [
+            "Contradecir"
+        ]
+    },
+    {
+        "id": 2,
+        "original": "Convince",
+        "es": [
+            "Convencer"
+        ]
+    },
+    {
+        "id": 3,
+        "original": "Cross",
+        "es": [
+            "Cruzar, traicionar, cruz"
+        ]
+    },
+    {
+        "id": 4,
+        "original": "Criticize",
+        "es": [
+            "Criticar"
+        ]
+    },
+    {
+        "id": 5,
+        "original": "Copy (from)",
+        "es": [
+            "Copiar (a)"
+        ]
+    },
+    {
+        "id": 6,
+        "original": "Change",
+        "es": [
+            "Cambiar, cambio"
+        ]
+    },
+    {
+        "id": 7,
+        "original": "Charge",
+        "es": [
+            "Cobrar, cargar a la cuenta"
+        ]
+    },
+    {
+        "id": 8,
+        "original": "Compare",
+        "es": [
+            "Comparar"
+        ]
+    },
+    {
+        "id": 9,
+        "original": "Create",
+        "es": [
+            "Crear"
+        ]
+    },
+    {
+        "id": 10,
+        "original": "Seem (like)",
+        "es": [
+            "Parecer (como)"
+        ]
+    },
+    {
+        "id": 11,
+        "original": "Complain (about, for)",
+        "es": [
+            "Quejarse (de, por)"
+        ]
+    },
+    {
+        "id": 12,
+        "original": "Care (About)",
+        "es": [
+            "Importale a uno (Acerca de)"
+        ]
+    },
+    {
+        "id": 13,
+        "original": "Take care (of)",
+        "es": [
+            "Cuidar (de, a)"
+        ]
+    },
+    {
+        "id": 14,
+        "original": "Sail",
+        "es": [
+            "Navegar, zarpar"
+        ]
+    },
+    {
+        "id": 15,
+        "original": "Set free",
+        "es": [
+            "Dejar libre"
+        ]
+    },
+    {
+        "id": 16,
+        "original": "Treat",
+        "es": [
+            "Tratar"
+        ]
+    },
+    {
+        "id": 17,
+        "original": "Invite",
+        "es": [
+            "Invitar"
+        ]
+    },
+    {
+        "id": 18,
+        "original": "Plot",
+        "es": [
+            "Conspirar, complot, argumento (de novela)"
+        ]
+    },
+    {
+        "id": 19,
+        "original": "Push",
+        "es": [
+            "Empujar, empujón, presionar (a alguien)"
+        ]
+    },
+    {
+        "id": 20,
+        "original": "Preach",
+        "es": [
+            "Predicar"
+        ]
+    },
+    {
+        "id": 21,
+        "original": "Paste",
+        "es": [
+            "Pegar (en el ordenar), paté, pasta"
+        ]
+    },
+    {
+        "id": 22,
+        "original": "Remove",
+        "es": [
+            "Quitar, trasladar"
+        ]
+    },
+    {
+        "id": 23,
+        "original": "Rest",
+        "es": [
+            "Descansar, descanso, resto"
+        ]
+    },
+    {
+        "id": 24,
+        "original": "Rule",
+        "es": [
+            "Gobernar, mandar, regla"
+        ]
+    },
+    {
+        "id": 25,
+        "original": "Select",
+        "es": [
+            "Seleccionar, selecto, escogido"
+        ]
+    },
+    {
+        "id": 26,
+        "original": "Touch",
+        "es": [
+            "Tocar, toque, palpar, acariciar"
+        ]
+    },
+    {
+        "id": 27,
+        "original": "Deserve",
+        "es": [
+            "Merecer"
+        ]
+    }
+]

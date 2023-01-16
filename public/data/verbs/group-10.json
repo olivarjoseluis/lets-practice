@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "type_verb": 1,
+        "original": "Argue",
+        "es": [
+            "Discutir"
+        ]
+    },
+    {
+        "id": 2,
+        "type_verb": 1,
+        "original": "Attend",
+        "es": [
+            "Asistir (estar presente en), cuidar de"
+        ]
+    },
+    {
+        "id": 3,
+        "type_verb": 1,
+        "original": "Arrest",
+        "es": [
+            "Arrestar"
+        ]
+    },
+    {
+        "id": 4,
+        "type_verb": 1,
+        "original": "Warm (up)",
+        "es": [
+            "Calentar, tibio"
+        ]
+    },
+    {
+        "id": 5,
+        "type_verb": 1,
+        "original": "Take away",
+        "es": [
+            "Quitar"
+        ]
+    },
+    {
+        "id": 6,
+        "type_verb": 1,
+        "original": "Take off",
+        "es": [
+            "Quitarse, despegar (un avión)"
+        ]
+    },
+    {
+        "id": 7,
+        "type_verb": 1,
+        "original": "Annoy",
+        "es": [
+            "Enojar"
+        ]
+    },
+    {
+        "id": 8,
+        "type_verb": 1,
+        "original": "Bring",
+        "es": [
+            "Traer"
+        ]
+    },
+    {
+        "id": 9,
+        "type_verb": 1,
+        "original": "Cheat",
+        "es": [
+            "Hacer trampa, trampa"
+        ]
+    },
+    {
+        "id": 10,
+        "type_verb": 1,
+        "original": "Take",
+        "es": [
+            "Llevar"
+        ]
+    },
+    {
+        "id": 11,
+        "type_verb": 1,
+        "original": "Flush (the toilet)",
+        "es": [
+            "Descargar (el inodoro)"
+        ]
+    },
+    {
+        "id": 12,
+        "type_verb": 1,
+        "original": "Hate",
+        "es": [
+            "Odiar"
+        ]
+    },
+    {
+        "id": 13,
+        "type_verb": 1,
+        "original": "Love",
+        "es": [
+            "Amar"
+        ]
+    },
+    {
+        "id": 14,
+        "type_verb": 1,
+        "original": "Respect",
+        "es": [
+            "Respetar"
+        ]
+    },
+    {
+        "id": 15,
+        "type_verb": 1,
+        "original": "Review",
+        "es": [
+            "Repasar, repaso"
+        ]
+    },
+    {
+        "id": 16,
+        "type_verb": 1,
+        "original": "Train",
+        "es": [
+            "Entrenar (se), tren"
+        ]
+    },
+    {
+        "id": 17,
+        "type_verb": 1,
+        "original": "Quit",
+        "es": [
+            "Retirarse, abandonar, dejar de hacer algo"
+        ]
+    },
+    {
+        "id": 18,
+        "type_verb": 1,
+        "original": "Stumble",
+        "es": [
+            "Tropezar, traspie"
+        ]
+    },
+    {
+        "id": 19,
+        "type_verb": 1,
+        "original": "Ligth",
+        "es": [
+            "Iluminar, encender, luz, liviano"
+        ]
+    },
+    {
+        "id": 20,
+        "type_verb": 1,
+        "original": "Value",
+        "es": [
+            "Cotizar, valor"
+        ]
+    },
+    {
+        "id": 21,
+        "type_verb": 1,
+        "original": "Assess",
+        "es": [
+            "Evaluar, valorar"
+        ]
+    },
+    {
+        "id": 22,
+        "type_verb": 1,
+        "original": "Trouble",
+        "es": [
+            "Preocupar, molestar, molestia, dificultad"
+        ]
+    }
+]

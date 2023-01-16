@@ -1,0 +1,226 @@
+[
+    {
+        "id": 0,
+        "type_verb": 1,
+        "original": "Attack",
+        "es": [
+            "Atacar",
+            "Ataque"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 1,
+        "type_verb": 1,
+        "original": "Bite",
+        "es": [
+            "Morder",
+            "Mordida"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 2,
+        "type_verb": 1,
+        "original": "Benefit",
+        "es": [
+            "Beneficiar",
+            "Beneficio"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 3,
+        "type_verb": 1,
+        "original": "Borrow (from)",
+        "es": [
+            "Pedir prestado (a)"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 4,
+        "type_verb": 1,
+        "original": "Lend",
+        "es": [
+            "Dar prestado"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 5,
+        "type_verb": 1,
+        "original": "Behave",
+        "es": [
+            "Comportarse"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 6,
+        "type_verb": 1,
+        "original": "Misbehave",
+        "es": [
+            "Comportarse mal"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 7,
+        "type_verb": 1,
+        "original": "Beat",
+        "es": [
+            "Golpear",
+            "Vencer",
+            "Batir",
+            "Latido"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 8,
+        "type_verb": 1,
+        "original": "Come (to)",
+        "es": [
+            "Venir (a)"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 9,
+        "type_verb": 1,
+        "original": "Go (to)",
+        "es": [
+            "Ir (a)"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 10,
+        "type_verb": 1,
+        "original": "Go on",
+        "es": [
+            "Seguir",
+            "Continuar"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 11,
+        "type_verb": 1,
+        "original": "Go away",
+        "es": [
+            "Alejarse",
+            "Irse lejos"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 12,
+        "type_verb": 1,
+        "original": "Enroll",
+        "es": [
+            "Matricular (se)",
+            "Enrolar",
+            "Inscribirse"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 13,
+        "type_verb": 1,
+        "original": "Eat",
+        "es": [
+            "Comer"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 14,
+        "type_verb": 1,
+        "original": "Kiss",
+        "es": [
+            "Besar",
+            "Beso"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 15,
+        "type_verb": 1,
+        "original": "Leave",
+        "es": [
+            "Salir",
+            "Abandonar"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 16,
+        "type_verb": 1,
+        "original": "Obey",
+        "es": [
+            "Obedecer"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 17,
+        "type_verb": 1,
+        "original": "Flunk",
+        "es": [
+            "Perder (un exámen)"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 18,
+        "type_verb": 1,
+        "original": "Pass (by)",
+        "es": [
+            "Pasar (por)",
+            "Aprobar (un exámen)"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 19,
+        "type_verb": 1,
+        "original": "Pass-away",
+        "es": [
+            "Fallecer",
+            "Morir"
+        ],
+        "past_affir": [],
+        "past_part": []
+    },
+    {
+        "id": 20,
+        "type_verb": 1,
+        "original": "Shout (at)",
+        "es": [
+            "Gritar (a)"
+        ],
+        "past_affir": [],
+        "past_part": []
+    }
+]

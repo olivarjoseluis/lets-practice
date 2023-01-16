@@ -1,0 +1,146 @@
+[
+    {
+        "id": 0,
+        "type_verb": 1,
+        "original": "Appreciate",
+        "es": ["Apreciar"]
+    },
+    {
+        "id": 1,
+        "type_verb": 1,
+        "original": "Fish",
+        "es": ["Pescar, Pescado"]
+    },
+    {
+        "id": 2,
+        "type_verb": 1,
+        "original": "Fire",
+        "es": ["Echar del trabajo, indendiar, Fuego, Incendio"]
+    },
+    {
+        "id": 3,
+        "type_verb": 1,
+        "original": "Fly",
+        "es": ["Volar, Mosca"]
+    },
+    {
+        "id": 4,
+        "type_verb": 1,
+        "original": "Hire",
+        "es": ["Emplear, Contratar"]
+    },
+    {
+        "id": 5,
+        "type_verb": 1,
+        "original": "Inform",
+        "es": ["Informar"]
+    },
+    {
+        "id": 6,
+        "type_verb": 1,
+        "original": "Improv",
+        "es": ["Mejorar"]
+    },
+    {
+        "id": 7,
+        "type_verb": 1,
+        "original": "Introduce",
+        "es": ["Presentar, Introducir"]
+    },
+    {
+        "id": 8,
+        "type_verb": 1,
+        "original": "Invent",
+        "es": ["Inventar"]
+    },
+    {
+        "id": 9,
+        "type_verb": 1,
+        "original": "Itch",
+        "es": ["Picar, Picazón"]
+    },
+    {
+        "id": 10,
+        "type_verb": 1,
+        "original": "Interrupt",
+        "es": ["Interrumpir"]
+    },
+    {
+        "id": 11,
+        "type_verb": 1,
+        "original": "Joke",
+        "es": ["Bromear, Broma"]
+    },
+    {
+        "id": 12,
+        "type_verb": 1,
+        "original": "Line",
+        "es": ["Alinear, Línea"]
+    },
+    {
+        "id": 13,
+        "type_verb": 1,
+        "original": "Mix",
+        "es": ["Mezclar, Mezcla"]
+    },
+    {
+        "id": 14,
+        "type_verb": 1,
+        "original": "Offert",
+        "es": ["Ofrecer, Oferta"]
+    },
+    {
+        "id": 15,
+        "type_verb": 1,
+        "original": "Park",
+        "es": ["Parquear, Parque"]
+    },
+    {
+        "id": 16,
+        "type_verb": 1,
+        "original": "Play",
+        "es": ["Jugar, Juego, Tocar un instrumento"]
+    },
+    {
+        "id": 17,
+        "type_verb": 1,
+        "original": "Talk",
+        "es": ["Hablar, Charla (con)"]
+    },
+    {
+        "id": 18,
+        "type_verb": 1,
+        "original": "Regret",
+        "es": ["Arrepentirse, Sentir pena"]
+    },
+    {
+        "id": 19,
+        "type_verb": 1,
+        "original": "Expect",
+        "es": ["Esperar, Esperar un hijo"]
+    },
+    {
+        "id": 20,
+        "type_verb": 1,
+        "original": "Try",
+        "es": ["Tratar, Intentar"]
+    },
+    {
+        "id": 21,
+        "type_verb": 1,
+        "original": "Want",
+        "es": ["Querer, Desear"]
+    },
+    {
+        "id": 22,
+        "type_verb": 1,
+        "original": "Wish",
+        "es": ["Desear (fuertemente), Deseo"]
+    },
+    {
+        "id": 23,
+        "type_verb": 1,
+        "original": "Like",
+        "es": ["Gustar, Como, Semejante"]
+    }
+]

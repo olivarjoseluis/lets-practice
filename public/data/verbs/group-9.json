@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "type_verb": 1,
+        "original": "Allow",
+        "es": [
+            "Permitir"
+        ]
+    },
+    {
+        "id": 2,
+        "type_verb": 1,
+        "original": "Begin",
+        "es": [
+            "Empezar, comenzar"
+        ]
+    },
+    {
+        "id": 3,
+        "type_verb": 1,
+        "original": "Cry",
+        "es": [
+            "Llorar"
+        ]
+    },
+    {
+        "id": 4,
+        "type_verb": 1,
+        "original": "Check",
+        "es": [
+            "Revisar,cheque, verificar, cuenta (en restaurante)"
+        ]
+    },
+    {
+        "id": 5,
+        "type_verb": 1,
+        "original": "Disturb",
+        "es": [
+            "Perturbar, interrumpir"
+        ]
+    },
+    {
+        "id": 6,
+        "type_verb": 1,
+        "original": "Die",
+        "es": [
+            "Morir"
+        ]
+    },
+    {
+        "id": 7,
+        "type_verb": 1,
+        "original": "Live",
+        "es": [
+            "Vivir"
+        ]
+    },
+    {
+        "id": 8,
+        "type_verb": 1,
+        "original": "Let",
+        "es": [
+            "Permitir, dejar"
+        ]
+    },
+    {
+        "id": 9,
+        "type_verb": 1,
+        "original": "Escape",
+        "es": [
+            "Escapar"
+        ]
+    },
+    {
+        "id": 10,
+        "type_verb": 1,
+        "original": "Fail",
+        "es": [
+            "Fracasar, fallar"
+        ]
+    },
+    {
+        "id": 11,
+        "type_verb": 1,
+        "original": "Wipe",
+        "es": [
+            "Limpiar, pasarle un trapo a, trapo, toallita"
+        ]
+    },
+    {
+        "id": 12,
+        "type_verb": 1,
+        "original": "Tie",
+        "es": [
+            "Amarrar, atar, ataduras, lazos, corbata, empatar"
+        ]
+    },
+    {
+        "id": 13,
+        "type_verb": 1,
+        "original": "Marry",
+        "es": [
+            "Casarse con"
+        ]
+    },
+    {
+        "id": 14,
+        "type_verb": 1,
+        "original": "Pay (for)",
+        "es": [
+            "Pagar (por)"
+        ]
+    },
+    {
+        "id": 15,
+        "type_verb": 1,
+        "original": "Succeed",
+        "es": [
+            "Tener éxito"
+        ]
+    },
+    {
+        "id": 16,
+        "type_verb": 1,
+        "original": "Fall (down)",
+        "es": [
+            "Caer(se), catarata, otoño"
+        ]
+    },
+    {
+        "id": 17,
+        "type_verb": 1,
+        "original": "Fall in love (with)",
+        "es": [
+            "Enamorarse (de)"
+        ]
+    },
+    {
+        "id": 18,
+        "type_verb": 1,
+        "original": "Turn",
+        "es": [
+            "Girar, voltear (hacia), turno, giro"
+        ]
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "type_verb": 1,
+        "original": "Bark (at)",
+        "es": [
+            "ladrar, ladrarle (a)"
+        ]
+    },
+    {
+        "id": 2,
+        "type_verb": 1,
+        "original": "Defend",
+        "es": [
+            "Defender"
+        ]
+    },
+    {
+        "id": 3,
+        "type_verb": 1,
+        "original": "Disappoint",
+        "es": [
+            "Decepcionar"
+        ]
+    },
+    {
+        "id": 4,
+        "type_verb": 1,
+        "original": "Depend (on)",
+        "es": [
+            "Depender (de)"
+        ]
+    },
+    {
+        "id": 5,
+        "type_verb": 1,
+        "original": "Doubt",
+        "es": [
+            "Dudar, duda"
+        ]
+    },
+    {
+        "id": 6,
+        "type_verb": 1,
+        "original": "Educate",
+        "es": [
+            "Educar"
+        ]
+    },
+    {
+        "id": 7,
+        "type_verb": 1,
+        "original": "Excuse",
+        "es": [
+            "Excusar, excusa"
+        ]
+    },
+    {
+        "id": 8,
+        "type_verb": 1,
+        "original": "Finish",
+        "es": [
+            "Terminar"
+        ]
+    },
+    {
+        "id": 9,
+        "type_verb": 1,
+        "original": "Fake",
+        "es": [
+            "Fingir"
+        ]
+    },
+    {
+        "id": 10,
+        "type_verb": 1,
+        "original": "Fall",
+        "es": [
+            "Caer, catarata"
+        ]
+    },
+    {
+        "id": 11,
+        "type_verb": 1,
+        "original": "Fall in love (with)",
+        "es": [
+            "Enamorarse de"
+        ]
+    },
+    {
+        "id": 12,
+        "type_verb": 1,
+        "original": "Guess",
+        "es": [
+            "Adivinar, suponer, suposición"
+        ]
+    },
+    {
+        "id": 13,
+        "type_verb": 1,
+        "original": "Greet",
+        "es": [
+            "Saludar"
+        ]
+    },
+    {
+        "id": 14,
+        "type_verb": 1,
+        "original": "Polish",
+        "es": [
+            "Embolar, lustrar"
+        ]
+    },
+    {
+        "id": 15,
+        "type_verb": 1,
+        "original": "Ring",
+        "es": [
+            "Timbrar. Timbre, anillo"
+        ]
+    },
+    {
+        "id": 16,
+        "type_verb": 1,
+        "original": "Sting",
+        "es": [
+            "Picar, picadura, resquemor"
+        ]
+    },
+    {
+        "id": 17,
+        "type_verb": 1,
+        "original": "Set",
+        "es": [
+            "Poner, colocar, equipo"
+        ]
+    },
+    {
+        "id": 18,
+        "type_verb": 1,
+        "original": "Carry on",
+        "es": [
+            "Seguir, proseguir"
+        ]
+    }
+]

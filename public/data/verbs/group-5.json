@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "type_verb": 1,
+        "original": "Box",
+        "es": ["Boxear, Caja"]
+    },
+    {
+        "id": 1,
+        "type_verb": 1,
+        "original": "Burn",
+        "es": ["Quemar"]
+    },
+    {
+        "id": 2,
+        "type_verb": 1,
+        "original": "Burn up",
+        "es": ["Quemarse po completo"]
+    },
+    {
+        "id": 3,
+        "type_verb": 1,
+        "original": "Combo",
+        "es": ["Peinar (se), Peineta"]
+    },
+    {
+        "id": 4,
+        "type_verb": 1,
+        "original": "Cook",
+        "es": ["Cocinar, Cocinero"]
+    },
+    {
+        "id": 5,
+        "type_verb": 1,
+        "original": "Drink",
+        "es": ["Beber, Bebida, Tomar"]
+    },
+    {
+        "id": 6,
+        "type_verb": 1,
+        "original": "Fight",
+        "es": ["Pelear, Pelea"]
+    },
+    {
+        "id": 7,
+        "type_verb": 1,
+        "original": "Hunt",
+        "es": ["Cazar, Caza"]
+    },
+    {
+        "id": 8,
+        "type_verb": 1,
+        "original": "Hurry (to)",
+        "es": ["Apresurarse (a)"]
+    },
+    {
+        "id": 9,
+        "type_verb": 1,
+        "original": "Join",
+        "es": ["Juntar(se)"]
+    },
+    {
+        "id": 10,
+        "type_verb": 1,
+        "original": "Learn",
+        "es": ["Aprender"]
+    },
+    {
+        "id": 11,
+        "type_verb": 1,
+        "original": "Return",
+        "es": ["Regresar"]
+    },
+    {
+        "id": 12,
+        "type_verb": 1,
+        "original": "Teach",
+        "es": ["Enseñar"]
+    },
+    {
+        "id": 13,
+        "type_verb": 1,
+        "original": "Practice",
+        "es": ["Practicar, Práctica"]
+    },
+    {
+        "id": 14,
+        "type_verb": 1,
+        "original": "Visit",
+        "es": ["Visitar, Visita"]
+    },
+    {
+        "id": 15,
+        "type_verb": 1,
+        "original": "Release",
+        "es": ["Liberar (un rehén, un prisionero), liberación"]
+    },
+    {
+        "id": 16,
+        "type_verb": 1,
+        "original": "Require",
+        "es": ["Requerir, Necesitar"]
+    },
+    {
+        "id": 17,
+        "type_verb": 1,
+        "original": "Survive",
+        "es": ["Sobrevivir"]
+    },
+    {
+        "id": 18,
+        "type_verb": 1,
+        "original": "Heat",
+        "es": ["Calentar(se), Calor"]
+    },
+    {
+        "id": 19,
+        "type_verb": 1,
+        "original": "Cool-down",
+        "es": ["Enfriar(se), Calmarse"]
+    }
+]

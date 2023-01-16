@@ -1,0 +1,128 @@
+[
+    {
+        "id": 0,
+        "type_verb": 1,
+        "original": "Apologize (to)",
+        "es": ["Presentar excusas (a)"]
+    },
+    {
+        "id": 1,
+        "type_verb": 1,
+        "original": "Agree (with)",
+        "es": ["Estar de acuerdo (con)"]
+    },
+    {
+        "id": 2,
+        "type_verb": 1,
+        "original": "Desagree (with)",
+        "es": ["No estar de acuerdo (con)"]
+    },
+    {
+        "id": 3,
+        "type_verb": 1,
+        "original": "Arrive (to)",
+        "es": ["Llegar (a)"]
+    },
+    {
+        "id": 4,
+        "type_verb": 1,
+        "original": "Address",
+        "es": ["Dirigir, Dirección"]
+    },
+    {
+        "id": 5,
+        "type_verb": 1,
+        "original": "Admit",
+        "es": ["Admitir"]
+    },
+    {
+        "id": 6,
+        "type_verb": 1,
+        "original": "Accept",
+        "es": ["Aceptar"]
+    },
+    {
+        "id": 7,
+        "type_verb": 1,
+        "original": "Believe",
+        "es": ["Creer"]
+    },
+    {
+        "id": 8,
+        "type_verb": 1,
+        "original": "Bother",
+        "es": ["Molestar"]
+    },
+    {
+        "id": 9,
+        "type_verb": 1,
+        "original": "Broadcast",
+        "es":["Transmitir (por radio, TV)"]
+    },
+    {
+        "id": 10,
+        "type_verb": 1,
+        "original": "Name",
+        "es": ["Llamar, Nombrar, Nombres"]
+    },
+    {
+        "id": 11,
+        "type_verb": 1,
+        "original": "Discuss",
+        "es": ["Discutir"]
+    },
+    {
+        "id": 12,
+        "type_verb": 1,
+        "original": "Fix",
+        "es": ["Arreglar, Desquitarse con"]
+    },
+    {
+        "id": 13,
+        "type_verb": 1,
+        "original": "Help",
+        "es": ["Ayudar, Ayuda"]
+    },
+    {
+        "id": 14,
+        "type_verb": 1,
+        "original": "Miss",
+        "es": ["Estrañar, Echar de menos, Señorita, Perder"]
+    },
+    {
+        "id": 15,
+        "type_verb": 1,
+        "original": "Hold",
+        "es": ["Agarrar, Sostener, Abrazar"]
+    },
+    {
+        "id": 16,
+        "type_verb": 1,
+        "original": "Hold on",
+        "es": ["Restir, Esperar, Asirse a"]
+    },
+    {
+        "id":17,
+        "type_verb": 1,
+        "original": "Hold the line",
+        "es": ["Sostener la línea (no colgar el teléfono)"]
+    },
+    {
+        "id": 18,
+        "type_verb": 1,
+        "original": "Satisfy",
+        "es":[ "Satisfacer"]
+    },
+    {
+        "id": 19,
+        "type_verb": 1,
+        "original": "Meet",
+        "es":[ "Encontrar, Conocer"]
+    },
+    {
+        "id": 20,
+        "type_verb": 1,
+        "original": "Remember",
+        "es": ["Recordar, Acordarse de, Tener presente"]
+    }
+]
